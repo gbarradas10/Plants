@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Plants</string>
+    <string name="plantListTitle">Plants</string>
+    <string name="frequencyLabel">Frequency</string>
+    <string name="amountLabel">Amount</string>
+    <string name="temperatureLabel">Temperature</string>
+</resources>
